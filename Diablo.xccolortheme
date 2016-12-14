@@ -67,7 +67,7 @@
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.SFNSText-Bold - 11.0</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0 0 0 0.8</string>
+	<string>0 0 0 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
